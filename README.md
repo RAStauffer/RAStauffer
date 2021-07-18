@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Web Development, Arduino code and gadgets
 - 🌱 I’m currently learning How to build a 40Watt amplifier for QRP Ham radio
 - 💞️ I’m looking to collaborate on websites and Arduino projects with hardware circuits
-- 📫 How to reach me staufr1 (gmail)
+- 📫 Send email to reach out to me
 
 <!---
 RAStauffer/RAStauffer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
