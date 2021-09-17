@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RAStauffer a.k.a Ron
+- 🏢 I work for Cision and we are hiring https://jobs.lever.co/cision
 - 👀 I’m interested in Programming, Web Development, Arduino code and gadgets
 - 🌱 I’m currently learning How to build a 40Watt amplifier for QRP Ham radio
 - 💞️ I’m looking to collaborate on websites and Arduino projects with hardware circuits
